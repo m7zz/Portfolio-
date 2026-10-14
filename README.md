@@ -55,7 +55,7 @@ Projeto de sistema web com estrutura de front-end e back-end.
 Está procurando um site profissional para seu negócio ou precisa tirar uma ideia do papel? Entre em contato para conversar sobre o projeto.
 
 - **GitHub:** https://github.com/m7zz
-- **Portfólio de projetos:** https://github.com/m7zz?tab=repositories
+- **Instagram:** marlon_7fe
 
 ---
 
